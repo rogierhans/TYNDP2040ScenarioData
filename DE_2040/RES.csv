@@ -1,0 +1,359 @@
+BA00;DSR;30
+BA00;Onshore Wind;3056
+BA00;Solar PV;3239
+BA00;Reservoir;680
+BA00;Run-of-River;1140
+BA00;PS Open;440
+BA00;Battery;1837
+BE00;DSR;1800
+BE00;Offshore Wind;6200
+BE00;Onshore Wind;9000
+BE00;Solar PV;18966
+BE00;Run-of-River;148
+BE00;PS Closed;1395
+BE00;Other RES;206
+BE00;Battery;1800
+DE00;DSR;5888
+DE00;Offshore Wind;20000
+DE00;Onshore Wind;109824
+DE00;Solar PV;145223
+DE00;Reservoir;1297
+DE00;Run-of-River;4036
+DE00;PS Closed;8393
+DE00;PS Open;1644
+DE00;Other RES;5235
+DE00;Battery;15400
+EE00;DSR;135
+EE00;Onshore Wind;4726
+EE00;Solar PV;839
+EE00;Other RES;148
+EE00;Battery;250
+ES00;DSR;6000
+ES00;Onshore Wind;56200
+ES00;Solar PV;83174
+ES00;Solar Thermal;7300
+ES00;Reservoir;10970
+ES00;Run-of-River;3640
+ES00;PS Closed;6837
+ES00;PS Open;2683
+ES00;Other RES;2226
+ES00;Battery;5714
+FI00;DSR;8550
+FI00;Offshore Wind;46
+FI00;Onshore Wind;22267
+FI00;Solar PV;5794
+FI00;Reservoir;3200
+FI00;Other RES;3043
+FI00;Battery;700
+FR00;DSR;3400
+FR00;Offshore Wind;5000
+FR00;Onshore Wind;90342
+FR00;Solar PV;77979
+FR00;Reservoir;8200
+FR00;Run-of-River;13600
+FR00;PS Closed;1800
+FR00;PS Open;1700
+FR00;Other RES;2549
+FR00;Battery;17692
+HR00;DSR;1
+HR00;Onshore Wind;3755
+HR00;Solar PV;5200
+HR00;Solar Thermal;200
+HR00;Reservoir;2000
+HR00;Run-of-River;500
+HR00;PS Open;900
+HR00;Other RES;400
+HR00;Battery;2221
+IE00;DSR;1900
+IE00;Offshore Wind;1280
+IE00;Onshore Wind;9440
+IE00;Solar PV;5545
+IE00;Run-of-River;238
+IE00;PS Closed;292
+IE00;Other RES;84
+IE00;Battery;1275
+ITCN;DSR;253
+ITCN;Onshore Wind;318
+ITCN;Solar PV;8846
+ITCN;Reservoir;842
+ITCN;Run-of-River;278
+ITCN;Other RES;1250
+ITCN;Battery;3501
+ITCS;DSR;166
+ITCS;Onshore Wind;5111
+ITCS;Solar PV;9833
+ITCS;Reservoir;534
+ITCS;Run-of-River;510
+ITCS;PS Closed;2205
+ITCS;PS Open;702
+ITCS;Other RES;463
+ITCS;Battery;1554
+ITN1;DSR;1644
+ITN1;Onshore Wind;319
+ITN1;Solar PV;33452
+ITN1;Reservoir;7015
+ITN1;Run-of-River;4680
+ITN1;PS Closed;2395
+ITN1;PS Open;2477
+ITN1;Other RES;2266
+ITN1;Battery;4620
+ITS1;DSR;206
+ITS1;Offshore Wind;300
+ITS1;Onshore Wind;11846
+ITS1;Solar PV;9549
+ITS1;Solar Thermal;440
+ITS1;Reservoir;877
+ITS1;Run-of-River;110
+ITS1;PS Closed;1700
+ITS1;Other RES;709
+ITS1;Battery;721
+ITSA;DSR;9
+ITSA;Onshore Wind;2505
+ITSA;Solar PV;3191
+ITSA;Reservoir;178
+ITSA;Run-of-River;43
+ITSA;PS Closed;1000
+ITSA;PS Open;240
+ITSA;Other RES;100
+ITSA;Battery;864
+ITSI;DSR;26
+ITSI;Offshore Wind;300
+ITSI;Onshore Wind;4730
+ITSI;Solar PV;4959
+ITSI;Solar Thermal;440
+ITSI;Reservoir;120
+ITSI;Run-of-River;14
+ITSI;PS Closed;1100
+ITSI;PS Open;80
+ITSI;Other RES;143
+ITSI;Battery;751
+LT00;DSR;40
+LT00;Offshore Wind;500
+LT00;Onshore Wind;3641
+LT00;Solar PV;2552
+LT00;Run-of-River;128
+LT00;PS Closed;1125
+LT00;Other RES;190
+LT00;Battery;397
+LUG1;DSR;8
+LUG1;Onshore Wind;350
+LUG1;Solar PV;250
+LUG1;Run-of-River;46
+LUG1;Other RES;53
+LUG1;Battery;226
+LV00;DSR;36
+LV00;Offshore Wind;130
+LV00;Onshore Wind;2181
+LV00;Solar PV;500
+LV00;Solar Thermal;50
+LV00;Run-of-River;1608
+LV00;Battery;223
+NL00;DSR;1916
+NL00;Offshore Wind;10000
+NL00;Onshore Wind;18966
+NL00;Solar PV;24580
+NL00;Run-of-River;46
+NL00;Other RES;540
+NL00;Battery;3297
+NOM1;DSR;1424
+NOM1;Onshore Wind;2842
+NOM1;PS Open;5381
+NOM1;Battery;700
+NON1;DSR;1296
+NON1;Onshore Wind;3039
+NON1;PS Open;5900
+NON1;Other RES;40
+NON1;Battery;519
+NOS0;DSR;3584
+NOS0;Onshore Wind;4406
+NOS0;Solar PV;2000
+NOS0;PS Open;24780
+NOS0;Other RES;36
+NOS0;Battery;2877
+SE01;DSR;214
+SE01;Onshore Wind;5498
+SE01;Reservoir;5315
+SE01;Other RES;276
+SE01;Battery;323
+SE02;DSR;323
+SE02;Onshore Wind;8922
+SE02;Solar PV;200
+SE02;Reservoir;8055
+SE02;Other RES;575
+SE02;Battery;561
+SE03;DSR;936
+SE03;Offshore Wind;810
+SE03;Onshore Wind;10000
+SE03;Solar PV;7047
+SE03;Reservoir;2911
+SE03;Other RES;2633
+SE03;Battery;2669
+SE04;DSR;264
+SE04;Offshore Wind;340
+SE04;Onshore Wind;11924
+SE04;Solar PV;3345
+SE04;Reservoir;349
+SE04;Other RES;701
+SE04;Battery;717
+SI00;DSR;40
+SI00;Onshore Wind;1030
+SI00;Solar PV;5067
+SI00;Run-of-River;1331
+SI00;PS Open;605
+SI00;Other RES;49
+SI00;Battery;2072
+UK00;DSR;3645
+UK00;Offshore Wind;21035
+UK00;Onshore Wind;26897
+UK00;Solar PV;61201
+UK00;Run-of-River;1969
+UK00;PS Closed;4004
+UK00;Other RES;4700
+UK00;Battery;7042
+UKNI;DSR;350
+UKNI;Onshore Wind;2797
+UKNI;Solar PV;1788
+UKNI;Other RES;441
+UKNI;Battery;278
+AT00;Onshore Wind;15000
+AT00;Solar PV;30000
+AT00;Reservoir;2433
+AT00;Run-of-River;6292
+AT00;PS Closed;300
+AT00;PS Open;6337
+AT00;Other RES;599
+AT00;Battery;3000
+CH00;Onshore Wind;1850
+CH00;Solar PV;17728
+CH00;Reservoir;8152
+CH00;Run-of-River;4113
+CH00;PS Closed;3989
+CH00;Other RES;1197
+CH00;Battery;1705
+CZ00;Onshore Wind;12522
+CZ00;Solar PV;18499
+CZ00;Reservoir;700
+CZ00;Run-of-River;395
+CZ00;PS Closed;687
+CZ00;PS Open;470
+CZ00;Other RES;1063
+CZ00;Battery;2177
+DKE1;Offshore Wind;1300
+DKE1;Onshore Wind;1450
+DKE1;Solar PV;1956
+DKE1;Other RES;249
+DKE1;Battery;687
+DKW1;Offshore Wind;6135
+DKW1;Onshore Wind;4800
+DKW1;Solar PV;4565
+DKW1;Other RES;380
+DKW1;Battery;1252
+HU00;Onshore Wind;2500
+HU00;Solar PV;17908
+HU00;Run-of-River;57
+HU00;Other RES;404
+HU00;Battery;1197
+PL00;Offshore Wind;3900
+PL00;Onshore Wind;24850
+PL00;Solar PV;32189
+PL00;Reservoir;183
+PL00;Run-of-River;536
+PL00;PS Closed;1323
+PL00;PS Open;178
+PL00;Other RES;2332
+PL00;Battery;1000
+PT00;Offshore Wind;260
+PT00;Onshore Wind;12520
+PT00;Solar PV;18736
+PT00;Solar Thermal;642
+PT00;Reservoir;3765
+PT00;Run-of-River;997
+PT00;PS Closed;555
+PT00;PS Open;3832
+PT00;Other RES;1211
+PT00;Battery;1512
+SK00;Onshore Wind;1000
+SK00;Solar PV;2665
+SK00;Run-of-River;1547
+SK00;PS Closed;649
+SK00;PS Open;276
+SK00;Other RES;319
+SK00;Battery;995
+TR00;Onshore Wind;29000
+TR00;Solar PV;29000
+TR00;Reservoir;29239
+TR00;Run-of-River;10716
+TR00;Other RES;2300
+DEKF;Offshore Wind;650
+DKKF;Offshore Wind;600
+EL03;Offshore Wind;212
+EL03;Onshore Wind;716
+EL03;Solar PV;759
+EL03;Solar Thermal;70
+EL03;Battery;81
+AL00;Onshore Wind;1408
+AL00;Solar PV;1655
+AL00;Reservoir;2402
+AL00;Run-of-River;468
+AL00;Battery;1018
+BG00;Onshore Wind;6311
+BG00;Solar PV;13189
+BG00;Reservoir;1483
+BG00;Run-of-River;495
+BG00;PS Closed;864
+BG00;PS Open;535
+BG00;Other RES;140
+BG00;Battery;4797
+CY00;Onshore Wind;1117
+CY00;Solar PV;1703
+CY00;Solar Thermal;120
+CY00;Other RES;15
+CY00;Battery;356
+FR15;Onshore Wind;412
+FR15;Solar PV;634
+FR15;Reservoir;194
+FR15;Run-of-River;38
+FR15;Other RES;9
+FR15;Battery;71
+EL00;Onshore Wind;16445
+EL00;Solar PV;17000
+EL00;Reservoir;2721
+EL00;Run-of-River;444
+EL00;PS Open;1445
+EL00;Other RES;525
+EL00;Battery;1438
+ME00;Onshore Wind;1185
+ME00;Solar PV;786
+ME00;Reservoir;1139
+ME00;Run-of-River;132
+ME00;Other RES;49
+ME00;Battery;372
+MK00;Onshore Wind;436
+MK00;Solar PV;2057
+MK00;Reservoir;816
+MK00;Run-of-River;411
+MK00;Other RES;30
+MK00;Battery;1648
+MT00;Onshore Wind;468
+MT00;Solar PV;585
+MT00;Battery;166
+RO00;Onshore Wind;8000
+RO00;Solar PV;6500
+RO00;Reservoir;2621
+RO00;Run-of-River;3432
+RO00;PS Open;746
+RO00;Other RES;500
+RO00;Battery;3096
+RS00;Onshore Wind;6911
+RS00;Solar PV;7726
+RS00;Reservoir;454
+RS00;Run-of-River;2664
+RS00;PS Open;814
+RS00;Other RES;397
+RS00;Battery;4813
+UA01;Onshore Wind;200
+UA01;Solar Thermal;230
+UA01;Other RES;40
+LUV1;PS Closed;1310
+LUB1;Battery;14
+LUF1;Battery;24
